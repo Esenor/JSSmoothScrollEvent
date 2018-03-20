@@ -1,0 +1,3 @@
+# JSSmoothScrollEvent #
+
+> open `index.html`
